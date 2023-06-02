@@ -1,8 +1,8 @@
-#Socket
+# Socket
 
 Minimal socket programme in C.
 
-##To run:
+## To run:
 
 ```bash
 cd server
